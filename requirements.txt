@@ -1,0 +1,8 @@
+streamlit
+supabase
+easyocr
+pymupdf
+pandas
+pillow
+numpy
+opencv-python-headless
